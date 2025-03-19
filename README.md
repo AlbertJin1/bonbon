@@ -68,3 +68,11 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+
+### Dependencies
+- npm install -D tailwindcss postcss autoprefixer
+- npx tailwindcss init -p
+- npm install @supabase/supabase-js
+- npm install react-icons
+- npm install sweetalert2
